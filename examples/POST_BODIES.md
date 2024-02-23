@@ -1,4 +1,4 @@
-All timestamps provided by sensors are based on the local clock inside the sensor.
+All timestamps provided by sensors are UTC timestamps based on the local clock inside the sensor.
 
 Example POST body sent from an air quality sensor:
 ```
