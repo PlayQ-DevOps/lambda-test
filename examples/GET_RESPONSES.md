@@ -1,4 +1,4 @@
-All timestamps in responses should be the UTC timestamp based on the server tile when the data *was writen*
+All timestamps in responses should be the UTC timestamp based on the server time when the data **was writen**.
 
 Example response to a GET request for a air quality sensor:
 ```
