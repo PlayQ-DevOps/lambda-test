@@ -1,0 +1,10 @@
+{
+    "timestamp": "2022-05-18T11:40:22.519222",
+    "type": "weather",
+    "name": "chicago.w_goethe_st",
+    "location": {
+        "lat": 41.90587258379623,
+        "long": -87.63444084296869
+    },
+    "payload": {}
+}
