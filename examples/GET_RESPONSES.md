@@ -1,3 +1,4 @@
+Example response to a GET request for a air quality sensor:
 ```
 {
     "timestamp": "2022-05-18T11:40:22.519222",
@@ -13,7 +14,7 @@
 }
 ```
 
-
+Example response to a GET request for a weather sensor:
 ```
 {
     "timestamp": "2023-11-18T01:40:23.518922",
@@ -32,7 +33,7 @@
 }
 ```
 
-
+Example response to a GET request for a traffic sensor:
 ```
 {
     "timestamp": "2023-11-18T01:40:23.518922",
